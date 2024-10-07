@@ -84,7 +84,3 @@ const UserList = () => {
 }
 
 export default UserList
-
-
-// {/* Selecting the user without a button */}
-// <button onClick={() => setSelectedUser(user.id)}>Third Button</button>
